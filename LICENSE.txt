@@ -1,0 +1,8 @@
+Master Keyboard for Plasma: interface, layout and theme design copyright Vincent.
+
+The RTS-85 keycap artwork is from KLE Render by Alexander Zhang (MIT license,
+payload/assets/licenses/KLE-Render-LICENSE.txt).
+Key icons are from Tabler Icons (MIT license, payload/assets/licenses/Tabler-Icons-LICENSE.txt).
+The keyboard layout files are based on Qt Virtual Keyboard layouts (GPL-3.0-only).
+
+Plasma and Qt are provided by your system and are not part of this package.
